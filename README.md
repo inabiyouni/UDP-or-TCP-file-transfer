@@ -1,5 +1,4 @@
-This program use TCP/UDP connection to tramit a file to a client. Server can be either from the project or a browser which is requesting a file.
-
+This program can send data over TCP/UDP connection. TCP server can be from this project or any browser which is requesting a file.
 For running the programs follow these steps:
 
 For UDP:
